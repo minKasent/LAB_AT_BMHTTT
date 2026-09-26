@@ -2,9 +2,9 @@
 
 - **Môn học:** An toàn và Bảo mật Hệ thống Thông tin
 - **Họ và tên:** Nguyễn Đăng Khoa
-- **Mã số sinh viên (MSSV):** 1150080099
+- **MSSV:** 1150080099
 - **Lớp:** 11CNPM2
-- **Link Video minh chứng thực hành:** [https://youtu.be/L0_UItYqaqA](https://youtu.be/L0_UItYqaqA)
+- **Link video:** https://youtu.be/L0_UItYqaqA
 - **Tệp báo cáo Word đính kèm:** [`11CNPM2-LAB3_1150080099-NguyenDangKhoa.docx`](11CNPM2-LAB3_1150080099-NguyenDangKhoa.docx)
 
 ---

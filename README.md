@@ -1,9 +1,8 @@
 # LAB_AT_BMHTTT - BÁO CÁO THỰC HÀNH AN TOÀN VÀ BẢO MẬT HỆ THỐNG THÔNG TIN
 
 - **Họ và tên:** Nguyễn Đăng Khoa
-- **Mã số sinh viên (MSSV):** 1150080099
+- **MSSV:** 1150080099
 - **Lớp:** 11CNPM2
-- **Kênh YouTube thực hành:** [https://www.youtube.com/@KhoaNguyễnĐăng-p4f](https://www.youtube.com/@KhoaNguyễnĐăng-p4f)
 
 ---
 
@@ -22,4 +21,4 @@
 - Nhận diện kỹ thuật lừa đảo (Phishing email) và đối chiếu 6 kịch bản Social Engineering.
 - Quy trình phục hồi hệ thống sạch và bảng băm toàn vẹn chứng cứ số SHA-256.
 - **Báo cáo Word:** [`LAB3/11CNPM2-LAB3_1150080099-NguyenDangKhoa.docx`](LAB3/11CNPM2-LAB3_1150080099-NguyenDangKhoa.docx)
-- **Video minh chứng:** [https://youtu.be/L0_UItYqaqA](https://youtu.be/L0_UItYqaqA)
+- **Link video:** https://youtu.be/L0_UItYqaqA
