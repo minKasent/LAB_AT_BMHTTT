@@ -1,0 +1,35 @@
+# Exclude installers, executables, zips, large binaries as required
+*.exe
+*.dll
+*.sys
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.iso
+*.pcapng
+*.pcap
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Microsoft Office temp files
+~$*
+*.tmp
+
+# Raw scripts / temp helpers
+inspect_doc.py
+build_full_lab3_report.py
+Lab 3 AT_BM_HTTT_backup.docx
+160_De_tai_Bai_tap_lon_An_toan_Bao_mat_HTTT_2026_2027.xlsx
+Lab1 - Examining SSH  Telnet in Wireshark.pdf
+LAB3_Threats_Assets/
+lab3_content.txt
+HUONG_DAN_QUAY_VIDEO.html
+HUONG_DAN_THUC_HANH_LAB1.md
+HUONG_DAN_LAB3_QUAY_VIDEO.html
+/images/
+Lab 3 AT_BM_HTTT.docx
+/11CNPM2-LAB3_1150080099-NguyenDangKhoa.docx
