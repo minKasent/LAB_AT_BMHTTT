@@ -4,7 +4,7 @@
 - **Họ và tên:** Nguyễn Đăng Khoa
 - **MSSV:** 1150080099
 - **Lớp:** 11CNPM2
-- **Link video:** https://youtu.be/L0_UItYqaqA (hoặc link video cập nhật)
+- **Link video:** https://youtu.be/7dzlYyW29kQ
 - **Tệp báo cáo Word đính kèm:** [`11CNPM2-LAB4_1150080099-NguyenDangKhoa.docx`](11CNPM2-LAB4_1150080099-NguyenDangKhoa.docx)
 
 ---

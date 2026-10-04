@@ -34,4 +34,4 @@
 - Thực nghiệm củng cố bảo mật (Hardening Before / After): giảm bề mặt tấn công qua kiểm soát dịch vụ và cấu hình tường lửa.
 - Trả lời 10 câu hỏi phân tích lý thuyết và tình huống phòng thủ chuyên sâu.
 - **Báo cáo Word:** [`LAB4/11CNPM2-LAB4_1150080099-NguyenDangKhoa.docx`](LAB4/11CNPM2-LAB4_1150080099-NguyenDangKhoa.docx)
-- **Link video:** https://youtu.be/L0_UItYqaqA
+- **Link video:** https://youtu.be/7dzlYyW29kQ
