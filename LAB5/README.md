@@ -4,6 +4,7 @@
 - **Họ và tên:** Nguyễn Đăng Khoa
 - **MSSV:** 1150080099
 - **Lớp:** 11CNPM2
+- **Link video:** https://youtu.be/XRO4TgOCAxI
 - **Tệp báo cáo Word đính kèm:** [`11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx`](11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx)
 - **Tệp báo cáo gốc:** [`Lab 5.docx`](../Lab%205.docx)
 

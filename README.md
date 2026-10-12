@@ -43,4 +43,5 @@
 - Thiết lập cách ly vùng DMZ nhằm ngăn ngừa tấn công leo thang / lây nhiễm ngang (Lateral Movement) sang mạng LAN nội bộ.
 - Cấu hình NAT Port Forwarding chuyển tiếp cổng từ WAN (8080) vào dịch vụ Web nội bộ DMZ (80).
 - **Báo cáo Word:** [`LAB5/11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx`](LAB5/11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx) / [`Lab 5.docx`](Lab%205.docx)
+- **Link video:** https://youtu.be/XRO4TgOCAxI
 
