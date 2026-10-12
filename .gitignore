@@ -41,3 +41,13 @@ LAB4_Nmap_HuongDan_2026.pdf
 Lab 4.docx
 HUONG_DAN_LAB4_QUAY_VIDEO.html
 .agents/
+
+# Lab 5 temp files and misc
+read_doc.py
+lab5_extracted_full.txt
+HUONG_DAN_LAB5_QUAY_VIDEO.html
+chunk_*.js
+holopin_profile.html
+stickers_live.json
+*holopin*.txt
+

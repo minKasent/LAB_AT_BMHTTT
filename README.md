@@ -35,3 +35,12 @@
 - Trả lời 10 câu hỏi phân tích lý thuyết và tình huống phòng thủ chuyên sâu.
 - **Báo cáo Word:** [`LAB4/11CNPM2-LAB4_1150080099-NguyenDangKhoa.docx`](LAB4/11CNPM2-LAB4_1150080099-NguyenDangKhoa.docx)
 - **Link video:** https://youtu.be/7dzlYyW29kQ
+
+### 4. [LAB 5: Cấu hình tường lửa pfSense](LAB5/README.md)
+- Triển khai tường lửa phân vùng với pfSense CE 2.7.2 quản lý 3 vùng mạng: WAN (DHCP), LAN (`10.0.0.1/8`), DMZ/OPT1 (`172.16.0.1/16`).
+- Khảo sát cơ chế lọc gói có trạng thái (Stateful Packet Inspection) và tác động của bảng State Table (Reset States).
+- Thiết lập quy tắc kiểm soát truy cập Internet chi tiết theo từng địa chỉ IP máy trạm (quy tắc First-match wins).
+- Thiết lập cách ly vùng DMZ nhằm ngăn ngừa tấn công leo thang / lây nhiễm ngang (Lateral Movement) sang mạng LAN nội bộ.
+- Cấu hình NAT Port Forwarding chuyển tiếp cổng từ WAN (8080) vào dịch vụ Web nội bộ DMZ (80).
+- **Báo cáo Word:** [`LAB5/11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx`](LAB5/11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx) / [`Lab 5.docx`](Lab%205.docx)
+
