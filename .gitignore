@@ -51,3 +51,16 @@ holopin_profile.html
 stickers_live.json
 *holopin*.txt
 
+# Lab 6 temp files and local configs
+config.toml
+settings.json
+HUONG_DAN_LAB6_QUAY_VIDEO.html
+LAB6_pfSense_AD_Access_Policies_2026.pdf
+lab6.bat
+/11CNPM2-LAB6_1150080099-NguyenDangKhoa.docx
+LAB6/pf
+LAB6/ub
+LAB6/pf_daemon.sh
+LAB6/pfsense_lab6_setup.php
+LAB6/ubuntu_lab6_setup.sh
+LAB6/lab6.py

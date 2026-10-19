@@ -45,3 +45,12 @@
 - **Báo cáo Word:** [`LAB5/11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx`](LAB5/11CNPM2-LAB5_1150080099-NguyenDangKhoa.docx) / [`Lab 5.docx`](Lab%205.docx)
 - **Link video:** https://youtu.be/XRO4TgOCAxI
 
+### 5. [LAB 6: Xác thực Active Directory và Chính sách truy cập trên pfSense](LAB6/README.md)
+- Thiết kế kiến trúc mạng pfSense 4 phân vùng độc lập: WAN (DHCP), MGMT (`192.168.56.254/24`), LAN (`10.6.0.1/24`), DMZ (`172.16.6.1/24`).
+- Tích hợp Active Directory Domain Services (`lab6.test` - `10.6.0.10:389`) qua giao thức LDAP với tài khoản dịch vụ đặc quyền tối thiểu (`svc_pfsense_ldap`) và kiểm chứng xác thực người dùng (`sv_a`, `sv_b`) qua `Diagnostics -> Authentication`.
+- Triển khai Captive Portal (`LAB6_USERS`) trên LAN kết nối backend xác thực `LAB6-AD`.
+- Thiết lập hệ thống Firewall Aliases (`CLIENT_A`, `CLIENT_B`, `POLICY_CLIENTS`, `GENERAL_SITE`, `JOB_SITE`, `SOCIAL_SITE`, `RESTRICTED_SITE`, `WEB_PORTS`) và Schedules (`WORK_HOURS`, `LUNCH_WINDOW`).
+- Xây dựng bộ chính sách kiểm soát truy cập tổng hợp theo người dùng, nhóm nội dung và khung giờ làm việc/nghỉ trưa; cô lập vùng DMZ và phân tích hành vi `Block` vs `Reject`, `Firewall Logs`, `State Table`.
+- **Báo cáo Word:** [`LAB6/11CNPM2-LAB6_1150080099-NguyenDangKhoa.docx`](LAB6/11CNPM2-LAB6_1150080099-NguyenDangKhoa.docx) / [`Lab 6.docx`](Lab%206.docx)
+- **File cấu hình pfSense:** [`LAB6/config.xml`](LAB6/config.xml)
+- **Link video:** https://youtu.be/fenSvuaSFCM
