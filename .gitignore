@@ -64,3 +64,17 @@ LAB6/pf_daemon.sh
 LAB6/pfsense_lab6_setup.php
 LAB6/ubuntu_lab6_setup.sh
 LAB6/lab6.py
+
+# Lab 7 temp files and local project folders
+.pytest_cache/
+DT060/
+DT060_DASHBOARD.html
+run_dt060.bat
+lab7.bat
+Lab 7 AT.docx
+/11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx
+LAB7/LAB7/
+LAB7/LAB7_Resources/
+LAB7/lab7.py
+LAB7/lab7_server.py
+

@@ -54,3 +54,11 @@
 - **Báo cáo Word:** [`LAB6/11CNPM2-LAB6_1150080099-NguyenDangKhoa.docx`](LAB6/11CNPM2-LAB6_1150080099-NguyenDangKhoa.docx) / [`Lab 6.docx`](Lab%206.docx)
 - **File cấu hình pfSense:** [`LAB6/config.xml`](LAB6/config.xml)
 - **Link video:** https://youtu.be/fenSvuaSFCM
+
+### 6. [LAB 7: Xây dựng chính sách Web Protection trên mô hình pfSense + Web Proxy](LAB7/README.md)
+- Thiết kế kiến trúc phòng thủ tách biệt Firewall/Gateway (`pfSense-LAB6`) và máy chủ lọc nội dung Web chuyên dụng `WEB-PROXY` (`10.6.0.30/24` - Ubuntu Server 24.04 LTS chạy `E2Guardian :8080 -> Squid 127.0.0.1:3128 + ClamAV`).
+- Triển khai 13 website mô phỏng (`*.lab7.test`) trên `DMZ-WEB` (`172.16.6.10`) và cấu hình DNS zone `lab7.test` trên Domain Controller `DC01` (`10.6.0.10`).
+- Thiết lập hệ thống Firewall Aliases (`LAB7_CLIENTS`, `LAB7_PROXY`, `WEB_PORTS`, `MAIL_PORTS`) và bộ 7 quy tắc trên cổng `LAN` của pfSense ép toàn bộ lưu lượng HTTP/HTTPS đi qua Proxy, chặn kết nối Web trực tiếp (`Anti-Bypass`).
+- Xây dựng và kiểm chứng 10 kịch bản chính sách Web Protection: Exception Whitelist (`normal`, `education`), Hard Block không cho bypass (`china`, `mideast`, `jobs`, `blockedgame`), Warning kèm Temporary Bypass 300 giây (`weapons`, `politics`, `religion`, `streaming`), Time-Window Schedule 60 phút (`LAB7_ENT_60M` cho `entertainment`, `games`), quét virus tải tệp với ClamAV (`eicar.com.txt`) và giới hạn dung lượng tải xuống `> 100 MB` trên Squid (`10MB.bin`, `100MB.bin`, `110MB.bin`).
+- **Báo cáo Word:** [`LAB7/11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx`](LAB7/11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx) / [`Lab 7.docx`](Lab%207.docx)
+- **File cấu hình pfSense:** [`LAB7/config.xml`](LAB7/config.xml)
