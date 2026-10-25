@@ -62,3 +62,4 @@
 - Xây dựng và kiểm chứng 10 kịch bản chính sách Web Protection: Exception Whitelist (`normal`, `education`), Hard Block không cho bypass (`china`, `mideast`, `jobs`, `blockedgame`), Warning kèm Temporary Bypass 300 giây (`weapons`, `politics`, `religion`, `streaming`), Time-Window Schedule 60 phút (`LAB7_ENT_60M` cho `entertainment`, `games`), quét virus tải tệp với ClamAV (`eicar.com.txt`) và giới hạn dung lượng tải xuống `> 100 MB` trên Squid (`10MB.bin`, `100MB.bin`, `110MB.bin`).
 - **Báo cáo Word:** [`LAB7/11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx`](LAB7/11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx) / [`Lab 7.docx`](Lab%207.docx)
 - **File cấu hình pfSense:** [`LAB7/config.xml`](LAB7/config.xml)
+- **Link video:** https://youtu.be/HuVXcv3l6Bs

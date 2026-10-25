@@ -4,6 +4,7 @@
 - **Họ và tên:** Nguyễn Đăng Khoa
 - **MSSV:** 1150080099
 - **Lớp:** 11CNPM2
+- **Link video:** https://youtu.be/HuVXcv3l6Bs
 - **Tệp báo cáo Word đính kèm:** [`11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx`](11CNPM2-LAB7_1150080099-NguyenDangKhoa.docx)
 - **Tệp báo cáo gốc:** [`Lab 7.docx`](../Lab%207.docx)
 - **Tệp cấu hình pfSense xuất kèm:** [`config.xml`](config.xml)
