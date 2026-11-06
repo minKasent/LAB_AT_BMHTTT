@@ -65,11 +65,11 @@
 - **Link video:** https://youtu.be/HuVXcv3l6Bs
 
 ### [Lab 8: Local DNS Attack](LAB8/README.md)
-- **B?o c?o Word:** [11CNPM2-LAB8_1150080099-NguyenDangKhoa.docx](LAB8/11CNPM2-LAB8_1150080099-NguyenDangKhoa.docx)
+- **Báo cáo Word:** [11CNPM2-LAB8_1150080099-NguyenDangKhoa.docx](LAB8/11CNPM2-LAB8_1150080099-NguyenDangKhoa.docx)
 - **Link video:** https://youtu.be/yAiucQqqV34
-- **Ph?m vi:** C? minh h?a m? ph?ng; xem ghi ch? trong README c?a b?i.
+- **Phạm vi:** Có minh họa mô phỏng; xem ghi chú trong README của bài.
 
-### [Lab 9?10: Remote DNS Cache Poisoning](LAB9/README.md)
-- **B?o c?o Word:** [11CNPM2-LAB9-10_1150080099-NguyenDangKhoa.docx](LAB9/11CNPM2-LAB9-10_1150080099-NguyenDangKhoa.docx)
+### [Lab 9–10: Remote DNS Cache Poisoning](LAB9/README.md)
+- **Báo cáo Word:** [11CNPM2-LAB9-10_1150080099-NguyenDangKhoa.docx](LAB9/11CNPM2-LAB9-10_1150080099-NguyenDangKhoa.docx)
 - **Link video:** https://youtu.be/qUKRcKIBUyo
-- **Ph?m vi:** C? minh h?a m? ph?ng; xem ghi ch? trong README c?a b?i.
+- **Phạm vi:** Có minh họa mô phỏng; xem ghi chú trong README của bài.

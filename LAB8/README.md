@@ -1,13 +1,13 @@
 # Lab 8: Local DNS Attack
 
-- H? t?n: Nguy?n ??ng Khoa
+- Họ tên: Nguyễn Đăng Khoa
 - MSSV: 1150080099
-- L?p: 11CNPM2
-- [B?o c?o Word](11CNPM2-LAB8_1150080099-NguyenDangKhoa.docx)
+- Lớp: 11CNPM2
+- [Báo cáo Word](11CNPM2-LAB8_1150080099-NguyenDangKhoa.docx)
 - Video: https://youtu.be/yAiucQqqV34
 
-## Ph?m vi k?t qu?
+## Phạm vi kết quả
 
-B?o c?o gi? nguy?n n?i dung v? ?nh trong b?n Word ng??i h?c cung c?p.
-C?ng c? h? tr? c? s? d?ng ??u ra terminal d?ng s?n, PCAP sinh b?ng m? v? trang web qua proxy c?c b?; c?c ph?n n?y l? minh h?a m? ph?ng, kh?ng ph?i b?ng ch?ng thu ???c t? vi?c ch?y ??y ?? c?c m?y DNS-SERVER, VICTIM v? Kali.
-Kh?ng xem c?c ??u ra n?y l? x?c nh?n t?n c?ng ho?c hardening th?c t? th?nh c?ng.
+Báo cáo giữ nguyên nội dung và ảnh trong bản Word người học cung cấp.
+Công cụ hỗ trợ có sử dụng đầu ra terminal dựng sẵn, PCAP sinh bằng mã và trang web qua proxy cục bộ; các phần này là minh họa mô phỏng, không phải bằng chứng thu được từ việc chạy đầy đủ các máy DNS-SERVER, VICTIM và Kali.
+Không xem các đầu ra này là xác nhận tấn công hoặc hardening thực tế thành công.
